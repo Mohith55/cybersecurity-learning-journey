@@ -1,3 +1,5 @@
+[Scan document2025-12-29 22-51-15.pdf](https://github.com/user-attachments/files/24371962/Scan.document2025-12-29.22-51-15.pdf)
+<img width="4211" height="5737" alt="flow chart" src="https://github.com/user-attachments/assets/90ced3b9-9ddc-4b04-8729-50c680c82fd8" />
 # Day 2 – Networking Fundamentals (DFIR Perspective)
 
 In Digital Forensics and Incident Response (DFIR), networking basics are core investigative tools, not background knowledge.
