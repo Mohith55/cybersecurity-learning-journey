@@ -1,6 +1,6 @@
 <img width="1536" height="1024" alt="57444" src="https://github.com/user-attachments/assets/d9bd0a29-7fe0-4ef5-b431-a6e0beb3bedb" />
 
-# Day 21 – WPScan (WordPress Vulnerability Scanning)
+# Day 18 – WPScan (WordPress Vulnerability Scanning)
 
 ## Objective
 To understand how common WordPress vulnerabilities are identified
